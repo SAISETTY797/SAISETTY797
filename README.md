@@ -1,4 +1,7 @@
 # 💫 About Me:
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is SAI UPESH
+==================================================================================================================================
+
 🔭 I’m currently working on<br>RTL Design, Pipelined Processor Architectures, and Open-Source ASIC Flow using Verilog HDL<br><br>👯 I’m looking to collaborate on<br>ASIC Design, Digital Verification, FPGA, and VLSI Projects<br><br>🤝 I’m looking for help with<br>SystemVerilog, UVM, Static Timing Analysis (STA), and Physical Design<br><br>🌱 I’m currently learning<br>SystemVerilog, UVM, OpenLane, Cadence Tools, and Advanced Digital Design<br><br>💬 Ask me about<br>Verilog HDL, Digital Electronics, Processor Design, Pipelining, Synthesis, and RTL-to-GDSII Flow<br><br>⚡ Career Goal<br>Aspiring ASIC Design / Design Verification Engineer in the Semiconductor Industry<br>
 
 
