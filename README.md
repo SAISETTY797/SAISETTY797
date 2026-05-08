@@ -12,7 +12,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-orange?style=for-the-badge)
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=SAISETTY797&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=isaiupesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## 🌐 Socials:
